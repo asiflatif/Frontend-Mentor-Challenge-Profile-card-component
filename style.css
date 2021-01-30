@@ -52,7 +52,8 @@ body {
 
 .card {
     margin: 10px;
-    width: 50vh;
+    width: 40vh;
+    height:auto;
     border-radius: 12px;
     background: white;
     position: absolute;
